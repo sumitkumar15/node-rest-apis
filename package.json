@@ -1,0 +1,14 @@
+{
+  "name": "rest-wishfie",
+  "version": "1.0.0",
+  "description": "backend assignment wishfie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.3.1"
+  }
+}
